@@ -15,7 +15,7 @@ It uses Scapy to capture packets, and the sniff function calls show_packet on ev
 
 ## How to run it
 ```
-`sudo python3 sniffer.py`
+sudo python3 sniffer.py
 ```
 It needs sudo because capturing raw network traffic requires admin privileges. Press Ctrl+C to stop it.
 
